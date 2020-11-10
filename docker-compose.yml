@@ -47,7 +47,7 @@ services:
       - "8080:8080"
     container_name: app
     volumes:
-       - ./app:/var/www/html:rw
+       - ./app:/var/www/html
        - /app/node_modules
 
   mysql:
