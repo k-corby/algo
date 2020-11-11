@@ -39,16 +39,16 @@ services:
     volumes:
       - ./api:/var/www/html:rw
     
-  app:
-    build:
-      context: ./app
-      dockerfile: Dockerfile
-    ports:
-      - "8080:8080"
-    container_name: app
-    volumes:
-       - ./app:/var/www/html
-       - /app/node_modules
+  #app:
+   # build:
+    #  context: ./app
+     # dockerfile: Dockerfile
+    #ports:
+     # - "8080:8080"
+    #container_name: app
+    #volumes:
+     #  - ./app:/var/www/html
+      # - /app/node_modules
 
   mysql:
     image: mysql:5.7
