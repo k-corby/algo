@@ -21,7 +21,6 @@
             </a>
         </div>
     </div>
-    <div data-scroll-sticky>hdsad</div>
     <div class="row-fluid bg-white pb" data-anchor="Page 1">
         <div class="sticky ar col-span">
             <div data-scroll>
@@ -116,7 +115,7 @@
             </h1>
             <p class="caption">Learn how to solve simple to complex programming problems.</p>
         </div>
-        <article class="">
+        <!-- <article class="">
             <img src='/img/banner/programming.jpg'>
             <div class="overlay">
                 <div class="text">
@@ -150,7 +149,7 @@
                     <p>Development</p>
                 </div>
             </div>
-        </article>
+        </article>-->
 
     </div>
     <div class="row-fluid bg-white" style="padding-top:250px;" data-anchor="Page 4">

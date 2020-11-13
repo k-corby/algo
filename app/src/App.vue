@@ -1,10 +1,23 @@
 <template>
-  <div id="nav">
-    <router-link to="/">Home</router-link> |
-    <router-link to="/about">About</router-link>
+  <div>
+    <Navigation />
+    <router-view />
+    <Footer />
   </div>
-  <router-view/>
-</template>
+</template> 
+
+<script>
+import Footer from "@/components/shared_components/Footer.vue";
+import Navigation from "@/components/shared_components/Navigation.vue";
+
+export default {
+  name: "app",
+  components: {
+    Navigation,
+    Footer,
+  },
+};
+</script>
 
 <style>
 #app {
