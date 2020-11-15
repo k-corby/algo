@@ -100,7 +100,7 @@
                 data-scroll
                 data-scroll-speed="2"
                 class="scale-crop scale-crop-vw blend-mode"
-                src="./src/assets/img/uploads/research.jpg"
+                src="../assets/img/uploads/research.jpg"
               />
             </div>
             <div class="pl pr">
@@ -145,7 +145,7 @@
                 data-scroll
                 data-scroll-speed="2"
                 class="scale-crop scale-crop-vw blend-mode"
-                src="/img/uploads/sketch-hand.jpg"
+                src="../assets/img/uploads/sketch-hand.jpg"
               />
             </div>
           </div>
@@ -169,7 +169,7 @@
                 data-scroll
                 data-scroll-speed="2"
                 class="scale-crop scale-crop-vw blend-mode"
-                src="/img/uploads/app-dev.jpg"
+                src="../assets/img/uploads/app-dev.jpg"
               />
             </div>
           </div>
@@ -184,7 +184,7 @@
                 data-scroll
                 data-scroll-speed="2"
                 class="scale-crop scale-crop-vw blend-mode"
-                src="/img/uploads/dev-app.jpg"
+                src="../assets/img/uploads/dev-app.jpg"
               />
             </div>
             <div class="pl9vw pr">
@@ -206,7 +206,7 @@
               </p>
             </div>
             <article class="">
-              <img src="/img/banner/programming.jpg" />
+              <img src="../assets/img/banner/programming.jpg" />
               <div class="overlay">
                 <div class="text">
                   <h1>Depth First Search</h1>
@@ -215,7 +215,7 @@
               </div>
             </article>
             <article class="">
-              <img src="/img/banner/ui-design.jpg" />
+              <img src="../assets/img/banner/ui-design.jpg" />
               <div class="overlay">
                 <div class="text">
                   <h1>Mobile Development Concepts</h1>
@@ -224,7 +224,7 @@
               </div>
             </article>
             <article class="">
-              <img src="/img/banner/ipad.jpg" />
+              <img src="../assets/img/banner/ipad.jpg" />
               <div class="overlay">
                 <div class="text">
                   <h1>Cross Platform Development</h1>
@@ -247,7 +247,7 @@
             data-anchor="Page 4"
           >
             <div>
-              <img width="100%" src="/img/services.png" />
+              <img width="100%" src="../assets/img/services.png" />
             </div>
             <div
               class="row-space-right"
