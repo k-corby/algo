@@ -7,8 +7,8 @@
 </template>
 
 <script>
-import Navigation from "@/components/shared_components/TheNavigation.vue";
-import Footer from "@/components/shared_components/TheFooter.vue";
+import Navigation from "@/components/layout/AppNavigation.vue";
+import Footer from "@/components/layout/AppFooter.vue";
 export default {
   name: "app",
   components: {
